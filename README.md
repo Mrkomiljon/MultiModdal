@@ -1,4 +1,4 @@
-# MultiModdal
+# MultiModal
 ## What is Multimmodal Learning?
 > Multimodal learning is teaching or learning from a combination of various modes of data. Modes are channels of information, or anything that communicates meaning in some way, such as **text, images, sounds, gestures**, etc. Multimodal learning engages the mind in multiple learning styles at the same time, and can suit different learners and applications.
 ## Dataset 
